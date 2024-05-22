@@ -6,11 +6,6 @@ Grab clang-tools static binaries for your platform from [Releases](https://githu
 
 ## Motivation behind this repo
 
-I use to contribute to different repositories and they often use different versions of clang-format.
-
-I could either compile clang-format for each one I want to have or I could try messing up with my package system (I use Arch Linux btw) and try installing all of them on my system.
-This can very quickly get out of hand, hence I created this repository.
-
 These binaries aim to:
 - be as small as possible
 - not require any additional dependencies apart from OS itself
